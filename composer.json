@@ -1,6 +1,6 @@
 {
     "name": "yassine_z/laravel-socialite-snapchat-ads-api",
-    "description": "Snapchat Marketing API OAuth2 Provider for Laravel Socialite",
+    "description": "Snapchat ADS API OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
