@@ -1,7 +1,7 @@
 # Snapchat
 
 ```bash
-composer require yassine_z/snapchat-marketing-api
+composer require yassine_z/laravel-socialite-snapchat-ads-api
 ```
 
 ## Installation & Basic Usage
