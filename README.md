@@ -1,5 +1,8 @@
 # Snapchat
 
+[![License](http://poser.pugx.org/doctrine/inflector/license)](https://packagist.org/packages/doctrine/inflector) 
+[![PHP Version Require](http://poser.pugx.org/doctrine/inflector/require/php)](https://packagist.org/packages/doctrine/inflector)
+
 ```bash
 composer require yassine_z/laravel-socialite-snapchat-ads-api
 ```
