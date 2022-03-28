@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\SnapchatAdsApi;
+namespace SocialiteProviders\SnapchatMarketingApi;
 
 use Illuminate\Support\Arr;
 use Laravel\Socialite\Two\ProviderInterface;
@@ -12,7 +12,7 @@ class Provider extends AbstractProvider implements ProviderInterface
     /**
      * Unique Provider Identifier.
      */
-    public const IDENTIFIER = 'SNAPCHATADSAPI';
+    public const IDENTIFIER = 'SNAPCHATMARKETINGAPI';
 
     /**
      * {@inheritdoc}

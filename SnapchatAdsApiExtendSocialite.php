@@ -1,10 +1,10 @@
 <?php
 
-namespace SocialiteProviders\SnapchatAdsApi;
+namespace SocialiteProviders\SnapchatMarketingApi;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
-class SnapchatAdsApiExtendSocialite
+class SnapchatMarketingApiExtendSocialite
 {
     /**
      * Register the provider.
@@ -13,6 +13,6 @@ class SnapchatAdsApiExtendSocialite
      */
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
-        $socialiteWasCalled->extendSocialite('snapchat_ads_api', Provider::class);
+        $socialiteWasCalled->extendSocialite('snapchat_marketing_api', Provider::class);
     }
 }
