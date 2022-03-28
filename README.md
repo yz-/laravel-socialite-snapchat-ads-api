@@ -4,7 +4,7 @@
 [![PHP Version Require](http://poser.pugx.org/doctrine/inflector/require/php)](https://packagist.org/packages/doctrine/inflector)
 
 ```bash
-composer require yassine_z/laravel-socialite-snapchat-marketing-api
+composer require yz/laravel-socialite-snapchat-marketing-api
 ```
 
 ## Installation & Basic Usage
